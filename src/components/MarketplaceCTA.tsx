@@ -98,11 +98,11 @@ const MarketplaceCTA = () => {
           <div className="inline-block bg-white/10 backdrop-blur-sm rounded-2xl p-6">
             <div className="flex flex-wrap justify-center items-center gap-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-yellow-400">22</div>
+                <div className="text-3xl font-bold text-yellow-400">40+</div>
                 <div className="text-sm text-blue-100">Students Registered</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-yellow-400">3+</div>
+                <div className="text-3xl font-bold text-yellow-400">5+</div>
                 <div className="text-sm text-blue-100">Active Businesses</div>
               </div>
               <div className="text-center">
